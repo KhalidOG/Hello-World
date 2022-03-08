@@ -1,8 +1,8 @@
 println("Hello World");
-String firstSentence = "You Said Hello!";
-String secondSentence = "Khalid Farah counts to 10, by 1";
+//String firstSentence = "You Said Hello!";
+//String secondSentence = "Khalid Farah counts to 10, by 1";
 //println(firstSentence);
-println(secondSentence);
+//println(secondSentence);
 //
 //Concatenation
 char X ='!';
@@ -23,5 +23,5 @@ String g = "to";
 String ten = "10";
 String h = "by";
 String one = "1";
-println(d+space+e+space+f+space+g+space+ten+y+h+space+one+z);
-println(d, e, f, g, ten+y, h, one+z);
+//print(d+space+e+space+f+space+g+space+ten+y+h+space+one+z+"\n\n\n\n\n\n\n\n\n\n"); // Character escape, \n (NEW LINE), \t (TAB)
+println("\t\t\t"+d, e, f, g, ten+y, h, one+z);
